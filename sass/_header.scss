@@ -1,0 +1,29 @@
+.header{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+    background: linear-gradient(#000, #5b5b5b  );
+}
+.navbar{
+
+}
+.navbar__collection{
+text-align: center;
+display: flex;
+justify-content: center;
+gap: 0 50px;
+align-items: center;
+height: 90px;
+list-style: none;
+a{
+    color: #fff;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+    font-weight: 300;
+    font-size: 18px;
+
+}
+
+}
